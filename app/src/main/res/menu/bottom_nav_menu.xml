@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_list_transactions"
+        android:icon="@drawable/ic_transactions"
+        android:title="@string/nav_transactions"
+        android:iconTint="@color/orange_medium"
+        android:titleTextColor="@color/text_primary" />
+
+    <item
+        android:id="@+id/nav_add_transaction"
+        android:icon="@drawable/ic_add_transaction"
+        android:title="@string/nav_add_transaction"
+        android:iconTint="@color/orange_medium"
+        android:titleTextColor="@color/text_primary" />
+
+    <item
+        android:id="@+id/nav_statistics"
+        android:icon="@drawable/ic_statistics"
+        android:title="@string/nav_statistics"
+        android:iconTint="@color/orange_medium"
+        android:titleTextColor="@color/text_primary" />
+
+    <item
+        android:id="@+id/nav_devs"
+        android:icon="@drawable/ic_devs"
+        android:title="@string/nav_devs"
+        android:iconTint="@color/orange_medium"
+        android:titleTextColor="@color/text_primary" />
+</menu>

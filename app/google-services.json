@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867842164645",
+    "project_id": "semprepoupa",
+    "storage_bucket": "semprepoupa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867842164645:android:ad555979e99890a9de4a4c",
+        "android_client_info": {
+          "package_name": "com.example.poupafacil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4B6amX6kbbfnl5HuD1N2r9YAxqG2EvgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
